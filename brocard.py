@@ -1,3 +1,9 @@
+#
+#	Copyright 2021 Abir Haque
+#	Subject to MIT License in LICENSE file
+#
+#
+#
 #	Brocard's Problem:
 #
 #	Find integer pairs (n,m) that satisfy the following:
